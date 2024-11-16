@@ -1,0 +1,14 @@
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net8.0/numberGuessingGame
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net8.0/numberGuessingGame.deps.json
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net8.0/numberGuessingGame.runtimeconfig.json
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net8.0/numberGuessingGame.dll
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/bin/Debug/net8.0/numberGuessingGame.pdb
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/numberGuessingGame.AssemblyInfoInputs.cache
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/numberGuessingGame.AssemblyInfo.cs
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/numberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/numberGuessingGame.dll
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/refint/numberGuessingGame.dll
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/numberGuessingGame.pdb
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/numberGuessingGame.genruntimeconfig.cache
+/Users/nazartsokalo/RiderProjects/numberGuessingGame/numberGuessingGame/obj/Debug/net8.0/ref/numberGuessingGame.dll
